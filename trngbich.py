@@ -4,8 +4,8 @@ def name_function(super_descriptive_name):
 # add main function
 def main():
 	name_function('super_descriptive_name')
-	name_function('another_name')
-	name_function('third_name')
+	name_function('super fabulous function')
+	name_function('functionless function')
 
 # call main function
 if __name__ == '__main__':
